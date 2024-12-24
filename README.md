@@ -30,40 +30,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuring Roles Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/V6MBEwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AhvLsqF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Agent -Roles</p>
+1. From the Admin Panel select the Agents Tab then select Roles.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/7uSHz6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HADrKNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Agent.Roles.Add New Role. Supreme Admin
+2. From the Roles page select Add New Role.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/dmQIGnX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YNFvoHI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Agent-Roles-Add New Role 2</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+3. Under the Definitions tab give the new role a name.</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Under the Permissions tab set permissions for the new role.
+</p>
+<br />
+
+<h2>Configuring Departments Steps</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+1. 
 </p>
 <br />
 
