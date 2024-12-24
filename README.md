@@ -20,10 +20,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Departments
+- Configure Teams
+- Allow Anyone to Create tickets
+- Configure Agents
+- Configure Users
+- Configure SLA
 
 <h2>Configuring Roles Steps</h2>
 
@@ -38,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/7uSHz6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Agent.Roles.Add New Role.Supreme Admin
+2. Agent.Roles.Add New Role. Supreme Admin
 </p>
 <br />
 
