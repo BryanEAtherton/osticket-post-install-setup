@@ -73,13 +73,39 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/EmXCyrY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. From the Setting tab we can change a number of things for the new Department.</p>
+2. From the Setting tab we can change several things for the new Department.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uR36kDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+3. Notice the New Department on the Departments tab.
+</p>
+<br />
+<h2>
+
+<h2>Configuring Teams Steps</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. Under the Permissions tab set permissions for the new role.
+</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Under the Permissions tab set permissions for the new role.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+4. Under the Permissions tab set permissions for the new role.
 </p>
 <br />
