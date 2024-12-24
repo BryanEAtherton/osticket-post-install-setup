@@ -58,22 +58,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 4. Under the Permissions tab set permissions for the new role.
 </p>
 <br />
+
 <h2>
 <h2>Configuring Departments Steps</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/koQYjLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. 
+1. From the Admin Panel select the Agents tab, select Departments, then click on Add New Department
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EmXCyrY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+2. From the Setting tab we can change a number of things for the new Department.</p>
 <br />
 
 <p>
