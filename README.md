@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - [Configure Roles](https://github.com/BryanEAtherton/Configure-Roles)
-- Configure Departments
+- [Configure Departments](https://github.com/BryanEAtherton/Configure-Departments/tree/main)
 - Configure Teams
 - Allow Anyone to Create tickets
 - Configure Agents
