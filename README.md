@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Allow Anyone to Create tickets](https://github.com/BryanEAtherton/Allow-Anyone-To-Create-Tickets)
 - [Configure Agents](https://github.com/BryanEAtherton/Configure-Agents) 
 - [Configure Users](https://github.com/BryanEAtherton/Configure-Users)
-- Configure SLA
+- [Configure SLA](https://github.com/BryanEAtherton/Configure-SLA)
 <h2>
 <h2>Configuring Roles Steps</h2>
 
