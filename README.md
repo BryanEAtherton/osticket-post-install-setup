@@ -90,7 +90,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+4. ncjdnaf eilb jlvuiero vjladbviaelnfuirhnawjn
 </p>
 <br />
 
@@ -98,9 +98,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+4. rao;naor;enfo;rfniow;fniwor;vneuipgnrj;egnjt;jsgfko;lmbiosr;hnaeiro;
 </p>
 <br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
