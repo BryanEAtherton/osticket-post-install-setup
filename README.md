@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Configure Teams](https://github.com/BryanEAtherton/Configure-Teams/tree/main)
 - [Allow Anyone to Create tickets](https://github.com/BryanEAtherton/Allow-Anyone-To-Create-Tickets)
 - [Configure Agents](https://github.com/BryanEAtherton/Configure-Agents) 
-- Configure Users
+- [Configure Users](https://github.com/BryanEAtherton/Configure-Users)
 - Configure SLA
 <h2>
 <h2>Configuring Roles Steps</h2>
