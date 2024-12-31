@@ -22,10 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Configure Roles](https://github.com/BryanEAtherton/Configure-Roles)
 - [Configure Departments](https://github.com/BryanEAtherton/Configure-Departments/tree/main)
 - [Configure Teams](https://github.com/BryanEAtherton/Configure-Teams/tree/main)
-- [Allow Anyone to Create tickets](https://github.com/BryanEAtherton/Allow-Anyone-To-Create-Tickets)
+- [Allow Anyone to Create Tickets](https://github.com/BryanEAtherton/Allow-Anyone-To-Create-Tickets)
 - [Configure Agents](https://github.com/BryanEAtherton/Configure-Agents) 
 - [Configure Users](https://github.com/BryanEAtherton/Configure-Users)
-- [Configure SLA](https://github.com/BryanEAtherton/Configure-SLA)
+- [Configure SLAs](https://github.com/BryanEAtherton/Configure-SLA)
+- [Configure Help Topics](https://github.com/BryanEAtherton/Configure-SLA)
 <h2>
 <h2>Configuring Roles Steps</h2>
 
