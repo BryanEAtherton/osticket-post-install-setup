@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Configure Agents](https://github.com/BryanEAtherton/Configure-Agents) 
 - [Configure Users](https://github.com/BryanEAtherton/Configure-Users)
 - [Configure SLAs](https://github.com/BryanEAtherton/Configure-SLA)
-- [Configure Help Topics](https://github.com/BryanEAtherton/Configure-SLA)
+- [Configure Help Topics](https://github.com/BryanEAtherton/Configure-Help-Topics)
 <h2>
 <h2>Configuring Roles Steps</h2>
 
